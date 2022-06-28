@@ -1,0 +1,45 @@
+canvas{
+	display: block;
+}
+
+body{
+	margin:0;
+	background-color: #2978A0;
+	background-color: #395C6B;
+	background-color: #5B9279;
+	background-color: #28AFB0;
+	background-color: #13182A;
+	color: #F7EDE2;
+	font-family: 'Open Sans', sans-serif;
+}
+
+main{
+	
+	position: absolute;
+	top: 100px;
+	left: 10%;
+
+	width: 80%
+}
+
+footer{
+	
+	position: absolute;
+	bottom: 10px;
+	right: 10px;
+	color: #f7ede288;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+	font-family: 'Raleway', sans-serif;
+	font-weight: normal;
+	font-size: 40px;
+}
+h1 span{
+	font-weight: bold;
+}
+
+h2{
+	font-family: 'Open Sans', sans-serif;
+}
